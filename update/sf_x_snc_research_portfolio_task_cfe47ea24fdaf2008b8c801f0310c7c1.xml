@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sf_x_snc_research_portfolio_task">
+    <sf_x_snc_research_portfolio_task action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <automatic_condition table="x_snc_research_portfolio_task">assigned_toISNOTEMPTY^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </automatic_condition>
+        <automatic_roles/>
+        <automatic_script><![CDATA[current.dispatched_on = new GlideDateTime();]]></automatic_script>
+        <automatic_string/>
+        <business_rule display_value="Assigned">87e47ea24fdaf2008b8c801f0310c7c2</business_rule>
+        <change_client_script/>
+        <client_script/>
+        <comment>Research Portfolio Request State flow</comment>
+        <derived_from display_value="Assigned">a9feb353df312100dca6a5f59bf263e4</derived_from>
+        <end_text>16</end_text>
+        <ending_state display_value="Asignado">79d43aa24fdaf2008b8c801f0310c7bc</ending_state>
+        <event/>
+        <event_rule/>
+        <mandatory_fields/>
+        <manual_condition/>
+        <manual_roles/>
+        <manual_script/>
+        <manual_string/>
+        <name>Assigned</name>
+        <not_mandatory/>
+        <not_read_only/>
+        <not_visible/>
+        <number>SF0010028</number>
+        <override/>
+        <read_only_fields/>
+        <roles/>
+        <start_text>1</start_text>
+        <starting_state display_value="Borrador">39d43aa24fdaf2008b8c801f0310c7ab</starting_state>
+        <sys_class_name>sf_x_snc_research_portfolio_task</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-26 09:59:14</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>cfe47ea24fdaf2008b8c801f0310c7c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assigned</sys_name>
+        <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+        <sys_update_name>sf_x_snc_research_portfolio_task_cfe47ea24fdaf2008b8c801f0310c7c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-26 09:59:14</sys_updated_on>
+        <table>x_snc_research_portfolio_task</table>
+        <translated_ending_state>Asignado</translated_ending_state>
+        <translated_starting_state>Borrador</translated_starting_state>
+        <ui_action/>
+        <visible_fields/>
+        <work_notes/>
+        <work_notes_rule/>
+    </sf_x_snc_research_portfolio_task>
+</record_update>

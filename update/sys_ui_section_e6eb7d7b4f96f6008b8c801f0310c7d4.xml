@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Clearance Investigators" section_id="e6eb7d7b4f96f6008b8c801f0310c7d4" sys_domain="global" table="x_snc_research_portfolio_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_rsrch_port_clearance_investigator_primary</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-30 03:07:23</sys_created_on>
+            <sys_id>810dfdbb4f96f6008b8c801f0310c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Clearance Investigators" display_value="Clearance Investigators" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">e6eb7d7b4f96f6008b8c801f0310c7d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-30 03:07:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_rsrch_port_u_clearance_inv_sec</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-30 03:07:23</sys_created_on>
+            <sys_id>050dfdbb4f96f6008b8c801f0310c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Clearance Investigators" display_value="Clearance Investigators" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">e6eb7d7b4f96f6008b8c801f0310c7d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-30 03:07:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-30 03:07:23</sys_created_on>
+            <sys_id>850dfdbb4f96f6008b8c801f0310c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Clearance Investigators" display_value="Clearance Investigators" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">e6eb7d7b4f96f6008b8c801f0310c7d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-30 03:07:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_rsrch_port_clrinvst_crdt</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-30 03:07:23</sys_created_on>
+            <sys_id>090dfdbb4f96f6008b8c801f0310c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Clearance Investigators" display_value="Clearance Investigators" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">e6eb7d7b4f96f6008b8c801f0310c7d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-30 03:07:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_snc_rsrch_port_u_sec_share</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-30 03:07:23</sys_created_on>
+            <sys_id>890dfdbb4f96f6008b8c801f0310c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Clearance Investigators" display_value="Clearance Investigators" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">e6eb7d7b4f96f6008b8c801f0310c7d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-30 03:07:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Clearance Investigators</caption>
+            <header>false</header>
+            <name>x_snc_research_portfolio_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-30 03:02:34</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6eb7d7b4f96f6008b8c801f0310c7d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Clearance Investigators</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+            <sys_update_name>sys_ui_section_e6eb7d7b4f96f6008b8c801f0310c7d4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-30 03:02:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

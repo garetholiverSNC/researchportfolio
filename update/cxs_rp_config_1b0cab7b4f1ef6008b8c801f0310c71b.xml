@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="cxs_rp_config">
+    <cxs_rp_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cxs_context_config display_value="Knowledge Base Search">03ddb541c31121005655107698ba8f7f</cxs_context_config>
+        <limit>10</limit>
+        <name>Research Proposal Clearance</name>
+        <result_action_label>This helped</result_action_label>
+        <result_action_value>This helped</result_action_value>
+        <results_header_text>Knowledge results</results_header_text>
+        <results_per_page>10</results_per_page>
+        <sc_cat_item display_value="Research Proposal Clearance">775ec8cb4f1e36008b8c801f0310c75a</sc_cat_item>
+        <search_variable display_value="Title/Short Description">806e800f4f1e36008b8c801f0310c743</search_variable>
+        <sys_class_name>cxs_rp_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-30 11:12:55</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1b0cab7b4f1ef6008b8c801f0310c71b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Research Proposal Clearance</sys_name>
+        <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+        <sys_update_name>cxs_rp_config_1b0cab7b4f1ef6008b8c801f0310c71b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-30 11:12:55</sys_updated_on>
+    </cxs_rp_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=1b0cab7b4f1ef6008b8c801f0310c71b"/>
+</record_update>

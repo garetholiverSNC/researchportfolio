@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="x_snc_rsrch_port_u_choice_1" table="x_snc_research_portfolio_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_snc_rsrch_port_u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>aa</label>
+            <language>en</language>
+            <name>x_snc_research_portfolio_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-27 03:37:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b027663a4fd636008b8c801f0310c7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-27 03:37:29</sys_updated_on>
+            <value>aa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_snc_rsrch_port_u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>b</label>
+            <language>en</language>
+            <name>x_snc_research_portfolio_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-27 03:37:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3427663a4fd636008b8c801f0310c7d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-27 03:37:29</sys_updated_on>
+            <value>b</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_snc_rsrch_port_u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>c</label>
+            <language>en</language>
+            <name>x_snc_research_portfolio_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-27 03:37:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7027663a4fd636008b8c801f0310c7d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-27 03:37:29</sys_updated_on>
+            <value>c</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>x_snc_rsrch_port_u_choice_1</element>
+            <name>x_snc_research_portfolio_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-27 03:37:29</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>fc27663a4fd636008b8c801f0310c7d4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_snc_rsrch_port_u_choice_1</sys_name>
+            <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+            <sys_update_name>sys_choice_x_snc_research_portfolio_request_x_snc_rsrch_port_u_choice_1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-27 03:37:29</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

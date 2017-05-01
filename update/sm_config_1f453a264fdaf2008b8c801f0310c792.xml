@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config">
+    <sm_config action="INSERT_OR_UPDATE">
+        <accept_reject>false</accept_reject>
+        <active>true</active>
+        <admin_role display_value="x_snc_rsrch_port_admin" name="x_snc_rsrch_port_admin">02d47aa24fdaf2008b8c801f0310c717</admin_role>
+        <agent_role display_value="x_snc_rsrch_port_agent" name="x_snc_rsrch_port_agent">8ad47aa24fdaf2008b8c801f0310c71a</agent_role>
+        <app_name>research_portfolio</app_name>
+        <approval>false</approval>
+        <approval_workflow display_value="Approval Workflow for SM">da95b573d7322100bbc783e80e610360</approval_workflow>
+        <approver_role display_value="x_snc_rsrch_port_approver_user" name="x_snc_rsrch_port_approver_user">82d47aa24fdaf2008b8c801f0310c71d</approver_role>
+        <associated_task_tables/>
+        <auto_dispatch>true</auto_dispatch>
+        <basic_role display_value="x_snc_rsrch_port_basic" name="x_snc_rsrch_port_basic">8ad47aa24fdaf2008b8c801f0310c71f</basic_role>
+        <catalog display_value="Research Portfolio Catalog">7f3572264fdaf2008b8c801f0310c778</catalog>
+        <created_with_version>Istanbul: 04-14-2017_1324</created_with_version>
+        <disabled_processes/>
+        <dispatch_group_type display_value="research_portfolio_dispatch">b9f432e24fdaf2008b8c801f0310c7c0</dispatch_group_type>
+        <dispatch_queue>false</dispatch_queue>
+        <dispatcher_role display_value="x_snc_rsrch_port_dispatcher" name="x_snc_rsrch_port_dispatcher">0ad47aa24fdaf2008b8c801f0310c722</dispatcher_role>
+        <follow_the_sun_priority>{value:,type:,display:}</follow_the_sun_priority>
+        <geolocation_maps>false</geolocation_maps>
+        <inbound_email>false</inbound_email>
+        <initiator_role display_value="x_snc_rsrch_port_initiator" name="x_snc_rsrch_port_initiator">c2d47aa24fdaf2008b8c801f0310c725</initiator_role>
+        <kbase display_value="Research Portfolio Knowledge">5445b2264fdaf2008b8c801f0310c73f</kbase>
+        <knowledge_base>true</knowledge_base>
+        <limit_by_location>true</limit_by_location>
+        <main_model_category display_value="Research Portfolio Request Template">7e257ae24fdaf2008b8c801f0310c713</main_model_category>
+        <main_model_table>x_snc_research_portfolio_request_template</main_model_table>
+        <main_state_flow_table>sf_x_snc_research_portfolio_request</main_state_flow_table>
+        <main_table>x_snc_research_portfolio_request</main_table>
+        <managed_docs>true</managed_docs>
+        <mandatory_work_notes>false</mandatory_work_notes>
+        <name>Research Portfolio</name>
+        <part_requirement>false</part_requirement>
+        <pdf_order_summary>false</pdf_order_summary>
+        <property_prefix>x_snc_rsrch_port</property_prefix>
+        <qualification>false</qualification>
+        <qualification_group_type/>
+        <qualifier_role/>
+        <read_role display_value="x_snc_rsrch_port_read" name="x_snc_rsrch_port_read">c2d47aa24fdaf2008b8c801f0310c72a</read_role>
+        <request_dispatch_method>auto</request_dispatch_method>
+        <request_dispatch_workflow display_value="Request Assignment Workflow for SM">879cca02d7100200e5eb83e80e6103fc</request_dispatch_workflow>
+        <request_driven>true</request_driven>
+        <rollup_work_notes>true</rollup_work_notes>
+        <service_catalog>true</service_catalog>
+        <signature_capture>false</signature_capture>
+        <surveys/>
+        <sys_class_name>sm_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-26 10:00:54</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1f453a264fdaf2008b8c801f0310c792</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Research Portfolio</sys_name>
+        <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+        <sys_update_name>sm_config_1f453a264fdaf2008b8c801f0310c792</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-30 09:59:45</sys_updated_on>
+        <task_activities>false</task_activities>
+        <task_dispatch_method>auto</task_dispatch_method>
+        <task_dispatch_workflow display_value="Assignment Workflow for SM">e1865971d7132100bbc783e80e610365</task_dispatch_workflow>
+        <task_model_category display_value="Research Portfolio Task Template">76257ae24fdaf2008b8c801f0310c714</task_model_category>
+        <task_model_table>x_snc_research_portfolio_task_template</task_model_table>
+        <task_state_flow_table>sf_x_snc_research_portfolio_task</task_state_flow_table>
+        <task_table>x_snc_research_portfolio_task</task_table>
+        <task_work_group_type/>
+        <templates_to_catalog>true</templates_to_catalog>
+        <track_travel>false</track_travel>
+        <use_consistent_assignment>false</use_consistent_assignment>
+        <use_follow_the_sun>false</use_follow_the_sun>
+        <use_location>false</use_location>
+        <use_schedule>false</use_schedule>
+        <use_sf>true</use_sf>
+        <use_skill>all</use_skill>
+        <use_timezone>true</use_timezone>
+        <user_created>true</user_created>
+        <vendor_group_type display_value="research_portfolio_vendor">3df432e24fdaf2008b8c801f0310c7c0</vendor_group_type>
+        <work_group_type display_value="research_portfolio">b1f432e24fdaf2008b8c801f0310c7c0</work_group_type>
+    </sm_config>
+</record_update>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sf_x_snc_research_portfolio_task">
+    <sf_x_snc_research_portfolio_task action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <automatic_condition/>
+        <automatic_roles/>
+        <automatic_script/>
+        <automatic_string/>
+        <business_rule/>
+        <change_client_script/>
+        <client_script/>
+        <comment>Research Portfolio Request State flow</comment>
+        <derived_from display_value="Request More Information">61feb353df312100dca6a5f59bf263e5</derived_from>
+        <end_text>1</end_text>
+        <ending_state display_value="Borrador">39d43aa24fdaf2008b8c801f0310c7ab</ending_state>
+        <event/>
+        <event_rule/>
+        <mandatory_fields/>
+        <manual_condition/>
+        <manual_roles/>
+        <manual_script/>
+        <manual_string>var st = new global.SMTask(); !st.isParentSuspended(current) &amp;&amp; st.showRequestMoreInformation(current)</manual_string>
+        <name>Request More Information</name>
+        <not_mandatory/>
+        <not_read_only/>
+        <not_visible/>
+        <number>SF0010023</number>
+        <override/>
+        <read_only_fields/>
+        <roles/>
+        <start_text>10</start_text>
+        <starting_state display_value="Attribution en attente">f5d43aa24fdaf2008b8c801f0310c7b3</starting_state>
+        <sys_class_name>sf_x_snc_research_portfolio_task</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-26 09:59:13</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>bae47ea24fdaf2008b8c801f0310c78e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request More Information</sys_name>
+        <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+        <sys_update_name>sf_x_snc_research_portfolio_task_bae47ea24fdaf2008b8c801f0310c78e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-26 09:59:13</sys_updated_on>
+        <table>x_snc_research_portfolio_task</table>
+        <translated_ending_state>Borrador</translated_ending_state>
+        <translated_starting_state>Attribution en attente</translated_starting_state>
+        <ui_action display_value="Request More Information">b2e47ea24fdaf2008b8c801f0310c78f</ui_action>
+        <visible_fields/>
+        <work_notes/>
+        <work_notes_rule/>
+    </sf_x_snc_research_portfolio_task>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Clearance Investigators" max_length="40" name="x_snc_rsrch_port_investigators" type="collection">
+        <element label="Chief Investigator" max_length="32" name="chief_investigator" reference="sys_user" type="reference"/>
+        <element label="Credit Share" max_length="40" name="credit_share" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Research Case" max_length="32" name="research_case" reference="x_snc_research_portfolio_request" type="reference"/>
+        <index name="index">
+            <element name="research_case"/>
+        </index>
+        <index name="index2">
+            <element name="chief_investigator"/>
+        </index>
+    </element>
+</database>

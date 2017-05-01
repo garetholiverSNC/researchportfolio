@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="654536264fdaf2008b8c801f0310c7b0" sys_domain="global" table="sf_x_snc_research_portfolio_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-26 10:00:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad4536264fdaf2008b8c801f0310c7b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sf_x_snc_research_portfolio_task" name="sf_x_snc_research_portfolio_task" sys_domain="global" view="Default view">654536264fdaf2008b8c801f0310c7b0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sf_x_snc_research_portfolio_task" sys_domain="global" view="Default view">a14536264fdaf2008b8c801f0310c756</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-26 10:00:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-26 10:00:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad4536264fdaf2008b8c801f0310c7b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sf_x_snc_research_portfolio_task" name="sf_x_snc_research_portfolio_task" sys_domain="global" view="Default view">654536264fdaf2008b8c801f0310c7b0</sys_ui_form>
+            <sys_ui_section caption="Manual" display_value="Manual" name="sf_x_snc_research_portfolio_task" sys_domain="global" view="Default view">214536264fdaf2008b8c801f0310c7b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-26 10:00:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-26 10:00:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d4536264fdaf2008b8c801f0310c7ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sf_x_snc_research_portfolio_task" name="sf_x_snc_research_portfolio_task" sys_domain="global" view="Default view">654536264fdaf2008b8c801f0310c7b0</sys_ui_form>
+            <sys_ui_section caption="Automatic" display_value="Automatic" name="sf_x_snc_research_portfolio_task" sys_domain="global" view="Default view">214536264fdaf2008b8c801f0310c7fd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-26 10:00:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-26 10:00:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f14576264fdaf2008b8c801f0310c721</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sf_x_snc_research_portfolio_task" name="sf_x_snc_research_portfolio_task" sys_domain="global" view="Default view">654536264fdaf2008b8c801f0310c7b0</sys_ui_form>
+            <sys_ui_section caption="Field Controls" display_value="Field Controls" name="sf_x_snc_research_portfolio_task" sys_domain="global" view="Default view">254576264fdaf2008b8c801f0310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-26 10:00:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sf_x_snc_research_portfolio_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-26 10:00:46</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>654536264fdaf2008b8c801f0310c7b0</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>sf_x_snc_research_portfolio_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+            <sys_update_name>sys_ui_form_sections_654536264fdaf2008b8c801f0310c7b0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-26 10:00:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

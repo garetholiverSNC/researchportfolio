@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-26 10:00:19</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f6257ae24fdaf2008b8c801f0310c71c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_research_portfolio_request.x_snc_rsrch_port_admin</sys_name>
+        <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+        <sys_security_acl display_value="x_snc_research_portfolio_request">ba257ae24fdaf2008b8c801f0310c715</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f6257ae24fdaf2008b8c801f0310c71c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-26 10:00:19</sys_updated_on>
+        <sys_user_role display_value="x_snc_rsrch_port_admin" name="x_snc_rsrch_port_admin">02d47aa24fdaf2008b8c801f0310c717</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

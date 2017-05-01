@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Research Portfolio Task Template</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Research Portfolio Task Template</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Create a new service task model" name="Create a new service task model">d7b907a1df322100dca6a5f59bf263ac</question>
+        <roles>x_snc_rsrch_port_admin,model_manager</roles>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-26 09:58:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>11d43aa24fdaf2008b8c801f0310c73a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Research Portfolio Task Template</sys_name>
+        <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+        <sys_update_name>sys_wizard_answer_11d43aa24fdaf2008b8c801f0310c73a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-26 09:58:50</sys_updated_on>
+        <table/>
+        <target_url>x_snc_research_portfolio_task_template.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
