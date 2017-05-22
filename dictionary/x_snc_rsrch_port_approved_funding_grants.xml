@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Approved Funding Grants" max_length="40" name="x_snc_rsrch_port_approved_funding_grants" type="collection">
+        <element label="Amount" max_length="20" name="amount" type="currency"/>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Title" max_length="40" name="title" type="string"/>
+    </element>
+</database>

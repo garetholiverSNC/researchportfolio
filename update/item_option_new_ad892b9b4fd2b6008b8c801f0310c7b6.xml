@@ -37,7 +37,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>formatter2</name>
-        <order>215</order>
+        <order>250</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text/>
@@ -60,7 +60,7 @@
         <sys_created_on>2017-04-28 21:44:44</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>ad892b9b4fd2b6008b8c801f0310c7b6</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>formatter2</sys_name>
         <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
         <sys_policy/>
@@ -68,7 +68,7 @@
         <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
         <sys_update_name>item_option_new_ad892b9b4fd2b6008b8c801f0310c7b6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-28 22:01:42</sys_updated_on>
+        <sys_updated_on>2017-05-01 12:28:11</sys_updated_on>
         <table/>
         <tooltip/>
         <type>20</type>

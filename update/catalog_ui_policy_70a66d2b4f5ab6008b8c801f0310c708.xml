@@ -6,7 +6,7 @@
         <applies_req_item>false</applies_req_item>
         <applies_sc_task>false</applies_sc_task>
         <applies_to>item</applies_to>
-        <catalog_conditions>IO:b70359974f1e76008b8c801f0310c7caANYTHING^EQ</catalog_conditions>
+        <catalog_conditions>IO:0c6e800f4f1e36008b8c801f0310c759ISNOTEMPTY^EQ</catalog_conditions>
         <catalog_item display_value="Research Proposal Clearance">775ec8cb4f1e36008b8c801f0310c75a</catalog_item>
         <conditions/>
         <description/>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>70a66d2b4f5ab6008b8c801f0310c708</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>show approvals radiataiion etc</sys_name>
         <sys_overrides/>
         <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
         <sys_update_name>catalog_ui_policy_70a66d2b4f5ab6008b8c801f0310c708</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-29 06:51:27</sys_updated_on>
+        <sys_updated_on>2017-05-01 00:48:53</sys_updated_on>
         <table/>
         <ui_type>0</ui_type>
         <variable_set/>

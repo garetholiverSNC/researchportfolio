@@ -88,11 +88,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-28 22:05:00</sys_created_on>
+            <sys_created_on>2017-05-01 12:25:54</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>713e23df4fd2b6008b8c801f0310c789</sys_id>
+            <sys_id>1076cd984f6e3a008b8c801f0310c768</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>item_option_new</sys_name>
             <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
@@ -101,7 +101,7 @@
             <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
             <sys_update_name>sys_ui_list_item_option_new_sc_cat_item_producer_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-28 22:05:00</sys_updated_on>
+            <sys_updated_on>2017-05-01 12:25:54</sys_updated_on>
             <sys_user display_value="Graeme Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

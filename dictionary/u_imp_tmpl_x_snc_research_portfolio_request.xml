@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Snc Research Portfolio Request" max_length="40" name="u_imp_tmpl_x_snc_research_portfolio_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Category(category)" max_length="40" name="u_category_category_" type="string"/>
+        <element attributes="import_attribute_name=Financial Benefit,edge_encryption_enabled=true" label="Financial Benefit" max_length="40" name="u_financial_benefit" type="string"/>
+        <element attributes="import_attribute_name=Reputation,edge_encryption_enabled=true" label="Reputation" max_length="40" name="u_reputation" type="string"/>
+        <element attributes="import_attribute_name=Scientific Innovation,edge_encryption_enabled=true" label="Scientific Innovation" max_length="40" name="u_scientific_innovation" type="string"/>
+        <element attributes="import_attribute_name=Sys ID,edge_encryption_enabled=true" label="Sys ID" max_length="40" name="u_sys_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="u_title" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="bubble_chart_workbench">
+    <bubble_chart_workbench action="INSERT_OR_UPDATE">
+        <bottom_left_color>#FF9933</bottom_left_color>
+        <bottom_left_label>Consider</bottom_left_label>
+        <bottom_right_color>#FF4D4D</bottom_right_color>
+        <bottom_right_label>Re-evaluate</bottom_right_label>
+        <isdefault>true</isdefault>
+        <list_view/>
+        <metric_x_field>x_snc_rsrch_port_u_financial_benefit</metric_x_field>
+        <metric_y_field>x_snc_rsrch_port_u_reputation</metric_y_field>
+        <metric_z_field>x_snc_rsrch_port_u_science_inov</metric_z_field>
+        <name>Research Portfolio Workbench</name>
+        <quadrant_label_color>#FFFFFF</quadrant_label_color>
+        <sys_class_name>bubble_chart_workbench</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-04 00:26:35</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>4b5e3d454fe6fa008b8c801f0310c765</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Research Portfolio Workbench</sys_name>
+        <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+        <sys_update_name>bubble_chart_workbench_4b5e3d454fe6fa008b8c801f0310c765</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-04 00:38:50</sys_updated_on>
+        <table>x_snc_research_portfolio_request</table>
+        <top_left_color>#FF9933</top_left_color>
+        <top_left_label>Do</top_left_label>
+        <top_right_color>#7FBF7F</top_right_color>
+        <top_right_label>Consider</top_right_label>
+        <x_axis_label>Financial Benefit</x_axis_label>
+        <y_axis_label>Reputation</y_axis_label>
+        <z_axis_label>Scientific Innovation</z_axis_label>
+    </bubble_chart_workbench>
+</record_update>

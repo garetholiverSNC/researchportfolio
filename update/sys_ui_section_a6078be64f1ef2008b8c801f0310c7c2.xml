@@ -4,36 +4,36 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>5d0dfdbb4f96f6008b8c801f0310c716</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>de71b3f14f62be008b8c801f0310c73d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <text>Project Details</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>510dfdbb4f96f6008b8c801f0310c717</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>d271b3f14f62be008b8c801f0310c73e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <text>Biosafety</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>5d0dfdbb4f96f6008b8c801f0310c716</element>
+            <element>de71b3f14f62be008b8c801f0310c73d</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>150dfdbb4f96f6008b8c801f0310c717</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>9671b3f14f62be008b8c801f0310c73e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -41,27 +41,27 @@
             <element>x_snc_rsrch_port_u_project</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>950dfdbb4f96f6008b8c801f0310c717</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>1a71b3f14f62be008b8c801f0310c73e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>510dfdbb4f96f6008b8c801f0310c717</element>
+            <element>d271b3f14f62be008b8c801f0310c73e</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>190dfdbb4f96f6008b8c801f0310c717</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>9a71b3f14f62be008b8c801f0310c73e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -69,13 +69,13 @@
             <element>.begin_split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>990dfdbb4f96f6008b8c801f0310c717</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>1e71b3f14f62be008b8c801f0310c73e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -83,13 +83,13 @@
             <element>x_snc_rsrch_port_ssba</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>1d0dfdbb4f96f6008b8c801f0310c717</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>9e71b3f14f62be008b8c801f0310c73e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -97,13 +97,13 @@
             <element>x_snc_rsrch_port_human_ethics</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>9d0dfdbb4f96f6008b8c801f0310c717</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>1271b3f14f62be008b8c801f0310c73f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -111,13 +111,13 @@
             <element>x_snc_rsrch_port_animal_ethics</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>110dfdbb4f96f6008b8c801f0310c718</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>9271b3f14f62be008b8c801f0310c73f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -125,13 +125,13 @@
             <element>.split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>910dfdbb4f96f6008b8c801f0310c718</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>1671b3f14f62be008b8c801f0310c73f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -139,13 +139,13 @@
             <element>x_snc_rsrch_port_hro</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>150dfdbb4f96f6008b8c801f0310c718</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>9671b3f14f62be008b8c801f0310c73f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -153,13 +153,13 @@
             <element>x_snc_rsrch_port_gmos</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>950dfdbb4f96f6008b8c801f0310c718</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>1a71b3f14f62be008b8c801f0310c73f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -167,13 +167,13 @@
             <element>x_snc_rsrch_port_radiation</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>190dfdbb4f96f6008b8c801f0310c718</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>9a71b3f14f62be008b8c801f0310c73f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -181,13 +181,13 @@
             <element>.end_split</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>990dfdbb4f96f6008b8c801f0310c718</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>1e71b3f14f62be008b8c801f0310c73f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -195,13 +195,13 @@
             <element>x_snc_rsrch_port_ext_com</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 03:07:24</sys_created_on>
-            <sys_id>1d0dfdbb4f96f6008b8c801f0310c718</sys_id>
+            <sys_created_on>2017-05-06 16:44:02</sys_created_on>
+            <sys_id>9e71b3f14f62be008b8c801f0310c73f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Research Portfolio Case" display_value="Research Portfolio Case" name="x_snc_research_portfolio_request" sys_domain="global" view="Default view">a6078be64f1ef2008b8c801f0310c7c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 03:07:24</sys_updated_on>
+            <sys_updated_on>2017-05-06 16:44:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

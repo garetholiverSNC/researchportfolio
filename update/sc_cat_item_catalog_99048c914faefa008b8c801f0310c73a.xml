@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Chemistry Research Grant Request">91048c914faefa008b8c801f0310c737</sc_cat_item>
+        <sc_catalog display_value="Research Portfolio Catalog">7f3572264fdaf2008b8c801f0310c778</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-04 10:09:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>99048c914faefa008b8c801f0310c73a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Research Portfolio Catalog.Chemistry Research Grant Request</sys_name>
+        <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_99048c914faefa008b8c801f0310c73a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-04 10:09:37</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

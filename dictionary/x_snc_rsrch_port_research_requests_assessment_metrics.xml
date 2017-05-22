@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Research Requests Assessment Metrics" max_length="40" name="x_snc_rsrch_port_research_requests_assessment_metrics" type="collection"/>
+</database>

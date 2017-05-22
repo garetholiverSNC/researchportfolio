@@ -40,7 +40,7 @@
         <gauge_autoscale>true</gauge_autoscale>
         <group/>
         <interval>year</interval>
-        <is_published>false</is_published>
+        <is_published>true</is_published>
         <is_scheduled>false</is_scheduled>
         <legend_background_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</legend_background_color>
         <legend_border_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</legend_border_color>
@@ -60,7 +60,7 @@
         <page_hdrftr display_value="Default">0ecdb03fc3613000cef73b251eba8f5e</page_hdrftr>
         <report_drilldown/>
         <report_source/>
-        <roles>x_snc_rsrch_port_read</roles>
+        <roles>x_snc_rsrch_port_read,public</roles>
         <row>category</row>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
@@ -84,7 +84,7 @@
         <sys_created_on>2017-04-30 10:14:31</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>cace5f3f4fdaf6008b8c801f0310c712</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Research Portfolio Requests Heatmap</sys_name>
         <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
         <sys_policy/>
@@ -92,7 +92,7 @@
         <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
         <sys_update_name>sys_report_cace5f3f4fdaf6008b8c801f0310c712</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-30 10:15:05</sys_updated_on>
+        <sys_updated_on>2017-05-02 01:48:03</sys_updated_on>
         <table>x_snc_research_portfolio_request</table>
         <title>Research Portfolio Requests Heatmap</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

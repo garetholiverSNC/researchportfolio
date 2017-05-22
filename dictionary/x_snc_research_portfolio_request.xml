@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" audit="true" extends="sm_order" label="Research Portfolio Request" max_length="40" name="x_snc_research_portfolio_request" sizeclass="10" type="collection">
+    <element attributes="live_feed=true" audit="true" extends="sm_order" label="Research Portfolio Request" max_length="40" name="x_snc_research_portfolio_request" sizeclass="23" type="collection">
         <element label="Additional Approvers (Deans/Heads)" max_length="4000" name="x_snc_rsrch_port_add_apprvrs" reference="sys_user" type="glide_list"/>
         <element label="Animal Ethics" max_length="40" name="x_snc_rsrch_port_animal_ethics" type="boolean"/>
         <element label="Clearance Investigator (Primary)" max_length="32" name="x_snc_rsrch_port_clearance_investigator_primary" reference="sys_user" type="reference"/>
@@ -11,6 +11,7 @@
         <element label="Human Ethics" max_length="40" name="x_snc_rsrch_port_human_ethics" type="boolean"/>
         <element label="Radiation" max_length="40" name="x_snc_rsrch_port_radiation" type="boolean"/>
         <element label="Security Sensitive Biological Agents" max_length="40" name="x_snc_rsrch_port_ssba" type="boolean"/>
+        <element label="survey triggered" max_length="40" name="x_snc_rsrch_port_survey_triggered" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Link" max_length="40" name="x_snc_rsrch_port_u_choice_1" type="string">
             <choice>
                 <element label="aa" sequence="0" value="aa"/>
@@ -18,8 +19,13 @@
                 <element label="c" sequence="2" value="c"/>
             </choice>
         </element>
-        <element label="Clearance Investigator (Secondary)" max_length="32" name="x_snc_rsrch_port_u_clearance_inv_sec" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element label="Clearance Investigator (Secondary)" max_length="32" name="x_snc_rsrch_port_u_clearance_inv_sec" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Financial Benefit" max_length="40" name="x_snc_rsrch_port_u_financial_benefit" type="string"/>
+        <element label="Grant" max_length="32" name="x_snc_rsrch_port_u_grant" reference="x_snc_rsrch_port_approved_funding_grants" type="reference"/>
         <element label="Project" max_length="32" name="x_snc_rsrch_port_u_project" reference="pm_project" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Reputation" max_length="40" name="x_snc_rsrch_port_u_reputation" type="string"/>
+        <element attributes="omit_sys_original=true" default="0" label="Requested Funding" max_length="20" name="x_snc_rsrch_port_u_requested_funding" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Scientific Innovation" max_length="40" name="x_snc_rsrch_port_u_science_inov" type="string"/>
         <element label="Secondary Credit Share" max_length="40" name="x_snc_rsrch_port_u_sec_share" type="integer"/>
     </element>
 </database>

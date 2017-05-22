@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Research Proposal Clearance">775ec8cb4f1e36008b8c801f0310c75a</catalog_item>
+        <catalog_variable>IO:67a1e1674f5ab6008b8c801f0310c792</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-01 00:46:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e026aa444f663a008b8c801f0310c704</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>approvals</sys_name>
+        <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_e026aa444f663a008b8c801f0310c704</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-01 00:46:26</sys_updated_on>
+        <table/>
+        <ui_policy display_value="show approvals radiataiion etc">70a66d2b4f5ab6008b8c801f0310c708</ui_policy>
+        <variable>approvals</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

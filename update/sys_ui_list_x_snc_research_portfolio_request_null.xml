@@ -4,107 +4,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">33cd1ffb4fdaf6008b8c801f0310c7a6</list_id>
+            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ec5831014fe6fa008b8c801f0310c739</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 10:10:16</sys_created_on>
-            <sys_id>b7cd1ffb4fdaf6008b8c801f0310c7a6</sys_id>
+            <sys_created_on>2017-05-03 23:59:17</sys_created_on>
+            <sys_id>245831014fe6fa008b8c801f0310c73a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 10:10:16</sys_updated_on>
+            <sys_updated_on>2017-05-03 23:59:17</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>priority</element>
-            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">33cd1ffb4fdaf6008b8c801f0310c7a6</list_id>
+            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ec5831014fe6fa008b8c801f0310c739</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 10:10:16</sys_created_on>
-            <sys_id>3bcd1ffb4fdaf6008b8c801f0310c7a6</sys_id>
+            <sys_created_on>2017-05-03 23:59:17</sys_created_on>
+            <sys_id>a45831014fe6fa008b8c801f0310c73a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 10:10:16</sys_updated_on>
+            <sys_updated_on>2017-05-03 23:59:17</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">33cd1ffb4fdaf6008b8c801f0310c7a6</list_id>
+            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ec5831014fe6fa008b8c801f0310c739</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 10:10:16</sys_created_on>
-            <sys_id>bbcd1ffb4fdaf6008b8c801f0310c7a6</sys_id>
+            <sys_created_on>2017-05-03 23:59:17</sys_created_on>
+            <sys_id>285831014fe6fa008b8c801f0310c73a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 10:10:16</sys_updated_on>
+            <sys_updated_on>2017-05-03 23:59:17</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">33cd1ffb4fdaf6008b8c801f0310c7a6</list_id>
+            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ec5831014fe6fa008b8c801f0310c739</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 10:10:16</sys_created_on>
-            <sys_id>3fcd1ffb4fdaf6008b8c801f0310c7a6</sys_id>
+            <sys_created_on>2017-05-03 23:59:17</sys_created_on>
+            <sys_id>a85831014fe6fa008b8c801f0310c73a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 10:10:16</sys_updated_on>
+            <sys_updated_on>2017-05-03 23:59:17</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>short_description</element>
-            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">33cd1ffb4fdaf6008b8c801f0310c7a6</list_id>
+            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ec5831014fe6fa008b8c801f0310c739</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 10:10:16</sys_created_on>
-            <sys_id>bfcd1ffb4fdaf6008b8c801f0310c7a6</sys_id>
+            <sys_created_on>2017-05-03 23:59:17</sys_created_on>
+            <sys_id>2c5831014fe6fa008b8c801f0310c73a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 10:10:16</sys_updated_on>
+            <sys_updated_on>2017-05-03 23:59:17</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_class_name</element>
-            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">33cd1ffb4fdaf6008b8c801f0310c7a6</list_id>
+            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ec5831014fe6fa008b8c801f0310c739</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 10:10:16</sys_created_on>
-            <sys_id>33cd1ffb4fdaf6008b8c801f0310c7a7</sys_id>
+            <sys_created_on>2017-05-03 23:59:17</sys_created_on>
+            <sys_id>ac5831014fe6fa008b8c801f0310c73a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 10:10:16</sys_updated_on>
+            <sys_updated_on>2017-05-03 23:59:17</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>category</element>
-            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">33cd1ffb4fdaf6008b8c801f0310c7a6</list_id>
+            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ec5831014fe6fa008b8c801f0310c739</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 10:10:16</sys_created_on>
-            <sys_id>b3cd1ffb4fdaf6008b8c801f0310c7a7</sys_id>
+            <sys_created_on>2017-05-03 23:59:17</sys_created_on>
+            <sys_id>205831014fe6fa008b8c801f0310c73b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 10:10:16</sys_updated_on>
+            <sys_updated_on>2017-05-03 23:59:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_rsrch_port_u_financial_benefit</element>
+            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ec5831014fe6fa008b8c801f0310c739</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-03 23:59:17</sys_created_on>
+            <sys_id>a05831014fe6fa008b8c801f0310c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-03 23:59:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_rsrch_port_u_science_inov</element>
+            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ec5831014fe6fa008b8c801f0310c739</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-03 23:59:17</sys_created_on>
+            <sys_id>245831014fe6fa008b8c801f0310c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-03 23:59:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_snc_rsrch_port_u_reputation</element>
+            <list_id display_value="x_snc_research_portfolio_request" element="NULL" name="x_snc_research_portfolio_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ec5831014fe6fa008b8c801f0310c739</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-03 23:59:17</sys_created_on>
+            <sys_id>a45831014fe6fa008b8c801f0310c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-03 23:59:17</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -118,11 +163,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-30 10:10:16</sys_created_on>
+            <sys_created_on>2017-05-03 23:59:17</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>33cd1ffb4fdaf6008b8c801f0310c7a6</sys_id>
+            <sys_id>ec5831014fe6fa008b8c801f0310c739</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_research_portfolio_request</sys_name>
             <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
@@ -131,7 +176,7 @@
             <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
             <sys_update_name>sys_ui_list_x_snc_research_portfolio_request_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-30 10:10:16</sys_updated_on>
+            <sys_updated_on>2017-05-03 23:59:17</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

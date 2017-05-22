@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Default Category">884572264fdaf2008b8c801f0310c7cc</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<div class="page" title="Page 1">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span style="font-size: 8pt;"><span style="color: #ff0000;">This form is for University of Toytown employees or affiliates ONLY</span>. It must be completed for ALL researchers employed by or affiliated with the University of <span style="color: #ff0000;">Toytown</span> or applicants for Fellowships that will be administered by the University of<span style="color: #ff0000;">Toytown</span>. Complete all sections of this form for all research grant proposals and submit to Research Grants &amp; Contracts (RGC) with a completed grant application. </span></p>
+<hr /></div>
+</div>
+</div>
+</div>]]></description>
+        <entitlement_script/>
+        <group/>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta>physics</meta>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Physics Research Grant Request</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("./com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=fd120cdd4f6efa008b8c801f0310c7c0&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <roles>snc_internal</roles>
+        <sc_catalogs>7f3572264fdaf2008b8c801f0310c778</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script><![CDATA[producer.redirect = "catalog_home.do?sysparm_catalog=7f3572264fdaf2008b8c801f0310c778";
+current.category = 'physics';]]></script>
+        <short_description>Physics Research Grant Request</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-04 10:01:11</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>fd120cdd4f6efa008b8c801f0310c7c0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Physics Research Grant Request</sys_name>
+        <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+        <sys_update_name>sc_cat_item_producer_fd120cdd4f6efa008b8c801f0310c7c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-06 19:58:14</sys_updated_on>
+        <table_name>x_snc_research_portfolio_request</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd120cdd4f6efa008b8c801f0310c7c0"/>
+    <fx_price action="delete_multiple" query="id=fd120cdd4f6efa008b8c801f0310c7c0"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>fd120cdd4f6efa008b8c801f0310c7c0</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-04 10:01:11</sys_created_on>
+        <sys_id>39120cdd4f6efa008b8c801f0310c7c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-04 10:01:11</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>fd120cdd4f6efa008b8c801f0310c7c0</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-04 10:01:12</sys_created_on>
+        <sys_id>f9120cdd4f6efa008b8c801f0310c7c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-04 10:01:12</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>picture</file_name>
+        <image_height>256</image_height>
+        <image_width>256</image_width>
+        <size_bytes>3540</size_bytes>
+        <size_compressed>3335</size_compressed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-04 10:26:21</sys_created_on>
+        <sys_id>56d780554faefa008b8c801f0310c759</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-04 10:26:22</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>fd120cdd4f6efa008b8c801f0310c7c0</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="56d780554faefa008b8c801f0310c759">56d780554faefa008b8c801f0310c759</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-04 10:26:21</sys_created_on>
+        <sys_id>96d780554faefa008b8c801f0310c759</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3736</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="56d780554faefa008b8c801f0310c759">56d780554faefa008b8c801f0310c759</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-04 10:26:21</sys_created_on>
+        <sys_id>1ad780554faefa008b8c801f0310c759</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>++Z1p04F4+a05ikiKy6rYJK2eRHrRqp3RgS++aCZguhfRjHJ5jjO8jtFg5d1cDOeDywSDfF87ed20sV9bV9HqewcVeF9DvWSEvuxekaiAdjZbfFeFZhq/bijimwlWnW1Lq86uLfa65NwuGE17idtfJVd4tRGYOJdFwhN3tEWzU3OPY9LX9UddaS8Gma1XlDZteYadegMpvXjJ5Maf8VepDy5+R9uQaPDv0ydwQzp8YuMy0t+WY5LvGqK+OyYMVFBxhVc7cw8jDW8vofuXqKOCj54Fdk5F9TaAjFbPDsuOlPrnTYIEBnWmvAogFyHfFfjXz0UeM12MX8uplYy7iDrZYxwrVxNUakQouDRxwx0nWQMVJYgazcc0t/+T3oUCvyhmepxiqAMPkCPQUFgjvdEwfzqhG9MWdNEJzLVixIcZKw4mNr6H4YcTM3m3Yh56icj0etJNTVXKprsYo/9jGsM0cNHA9HibAETwZl4hD/a08KXD1TGgWxkrqnFGv5O0SP8Mz+7rVZSMupqdlfGD9lEfcSrZL7TIhPYgGrnc1bfs9R97H6fHA69W4j2UCd/uu9SkPVqwH+l70o5AIm0k8elyWkrze2+ZMmNXWMNrvYpMEwNuF+c66VvENi31yHOJ8TxuiVTi0t3I/yfbxVcZJdL1W3LVjNO9rHr8S8w4OywdUuJHTfhX/KnmRjUDQAA</data>
+        <length>700</length>
+        <position>2</position>
+        <sys_attachment display_value="picture" sys_id="56d780554faefa008b8c801f0310c759">56d780554faefa008b8c801f0310c759</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-04 10:26:21</sys_created_on>
+        <sys_id>9ad780554faefa008b8c801f0310c759</sys_id>
+    </sys_attachment_doc>
+</record_update>

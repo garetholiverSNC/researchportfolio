@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Physics Research Grant Request">fd120cdd4f6efa008b8c801f0310c7c0</sc_cat_item>
+        <sc_category display_value="Default Category">884572264fdaf2008b8c801f0310c7cc</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-04 10:01:12</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b1120cdd4f6efa008b8c801f0310c7c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default Category.Physics Research Grant Request</sys_name>
+        <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
+        <sys_update_name>sc_cat_item_category_b1120cdd4f6efa008b8c801f0310c7c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-04 10:01:12</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

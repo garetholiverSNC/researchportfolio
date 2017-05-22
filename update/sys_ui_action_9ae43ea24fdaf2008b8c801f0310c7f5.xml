@@ -38,7 +38,7 @@ if (typeof window == 'undefined')
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9ae43ea24fdaf2008b8c801f0310c7f5</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Close Complete</sys_name>
         <sys_overrides/>
         <sys_package display_value="Research Portfolio" source="x_snc_rsrch_port">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_package>
@@ -47,7 +47,7 @@ if (typeof window == 'undefined')
         <sys_scope display_value="Research Portfolio">dcd4b6a24fdaf2008b8c801f0310c7ea</sys_scope>
         <sys_update_name>sys_ui_action_9ae43ea24fdaf2008b8c801f0310c7f5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-26 09:59:11</sys_updated_on>
+        <sys_updated_on>2017-05-01 10:09:34</sys_updated_on>
         <table>x_snc_research_portfolio_task</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>true</ui16_compatible>
